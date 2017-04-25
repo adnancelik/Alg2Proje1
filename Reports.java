@@ -1,4 +1,4 @@
-package proje1_05140010136;
+package Test;
 
 import java.io.*;
 import java.util.Scanner;
